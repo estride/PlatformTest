@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvNwVWbSnPn7jKBEvSuhjKqnDZxsQTmoLroaCg6uGJ+Oq6/G9pHSHS4oGxVUsgiuI2FvaPI/P4Le4oQjyb9H4Q==",
+  "success": true,
+  "projectFilePath": "H:\\Development\\Playground\\HerokuTest\\HerokuTest.csproj",
+  "expectedPackageFiles": [
+    "H:\\Users\\ArpanBhatia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
